@@ -7,6 +7,7 @@
     "max_travel_detour_distance": "2",
     "name": "Voron PIF",
     "outer_wall_speed": "180",
+    "infill_wall_overlap": "35%",
     "inner_wall_speed": "280",
     "internal_solid_infill_speed": "280",
     "sparse_infill_speed": "300",
