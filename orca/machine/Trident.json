@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Voron Trident 300 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Trident",
+    "print_host": "http://10.6.7.254/",
+    "printer_settings_id": "Trident",
+    "version": "2.2.0.4"
+}

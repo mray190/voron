@@ -1,0 +1,21 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "inner_wall_speed": "250",
+    "internal_solid_infill_speed": "220",
+    "is_custom_defined": "0",
+    "max_travel_detour_distance": "2",
+    "name": "Quick",
+    "outer_wall_speed": "150",
+    "print_settings_id": "Quick",
+    "reduce_crossing_wall": "1",
+    "skirt_distance": "5",
+    "skirt_loops": "3",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "cubic",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "3",
+    "version": "2.2.0.4"
+}

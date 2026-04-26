@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Ender3",
+    "print_host": "http://10.6.7.34/",
+    "printer_settings_id": "Ender3",
+    "printhost_apikey": "A050CB48E6364DDAAAB2A294B9B69295",
+    "version": "2.2.0.4"
+}

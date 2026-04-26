@@ -1,0 +1,20 @@
+{
+    "bottom_shell_layers": "5",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "is_custom_defined": "0",
+    "max_travel_detour_distance": "2",
+    "name": "Voron PIF",
+    "print_settings_id": "Voron PIF",
+    "reduce_crossing_wall": "1",
+    "skirt_distance": "5",
+    "skirt_loops": "3",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "cubic",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
+    "top_shell_layers": "5",
+    "version": "2.2.0.4",
+    "wall_loops": "4"
+}
